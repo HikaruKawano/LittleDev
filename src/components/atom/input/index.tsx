@@ -1,6 +1,6 @@
 import React from "react";
 import { StyleInput } from "./style";
-import { Placeholder } from "react-bootstrap";
+
 
 interface props {
   inputtype?: string;
